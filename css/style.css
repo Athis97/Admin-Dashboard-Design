@@ -465,4 +465,12 @@ body {
   .status {
     white-space: nowrap;
   }
+  
+  .search {
+    width: 250px;
+  }
+  
+  .user img {
+    min-width: 40px;
+  }
 }
